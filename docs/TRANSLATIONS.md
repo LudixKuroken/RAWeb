@@ -52,7 +52,7 @@ Some translation strings contain special elements that must be handled carefully
    - Keep tags intact and in the correct order
    ```
    Original: "Click <1>here</1> to visit the page"
-   Translation: "Clique <1>aqui</1> para visitar a página"
+   Translation: "Clique <1>aqui</1> para visitar la página"
    ```
 
 ## Review Process
